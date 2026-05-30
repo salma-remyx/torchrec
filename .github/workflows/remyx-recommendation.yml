@@ -17,3 +17,4 @@ jobs:
         with:
           interest-id: c69e32c3-b4dd-4212-a3be-dda26a25d175
           rate-limit-days: 0
+          pin-arxiv: '2605.19972v1'
